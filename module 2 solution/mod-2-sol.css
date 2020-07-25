@@ -52,6 +52,37 @@ section {
   color: black;
   padding: 5px;
 }
+
+#t1 {
+  border: 1px solid black;
+  text-align: center;
+  width: 30%;
+  margin-left: 70%;
+  font-family: Georgia,sans-serif;
+  font-weight: bold;
+  font-size: 125%;
+  margin-bottom: 0;
+  margin-top: 0;
+  color: black;
+  padding: 5px;
+  background-color: #A0AAF0;	
+}
+
+#t2 {
+  border: 1px solid black;
+  text-align: center;
+  width: 30%;
+  margin-left: 70%;
+  font-family: Georgia,sans-serif;
+  font-weight: bold;
+  font-size: 125%;
+  margin-bottom: 0;
+  margin-top: 0;
+  color: black;
+  padding: 5px;
+  background-color: #A0A0A0;	
+}	
+
 .row {
   width: 100%;
   overflow: hidden;
