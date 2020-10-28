@@ -1,0 +1,53 @@
+body{
+  font-size: 16px;
+  color: #fff;
+  background-color: #61125f;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav{
+	border-radius: 0;
+	background-color: #bdf;
+	text-align: left;
+
+}
+
+.navbar-brand h1 {
+	font-family: "Lora",serif;
+	color: #aa1;
+	font-size: 1.8em;
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #000;
+	margin: 0;
+	line-height: .75;
+}
+
+#nav-list {
+  	margin-top: 10px;
+  	background-color: #ace;
+}
+#nav-list a {
+	color: #996693;
+  	text-align: center;
+}
+#nav-list a:hover {
+	background: #E7E7E7;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #61125f;
+}
+
+
+#content{
+	background-color: #bdf;
+	color: #000;
+	margin: 25px auto;
+	padding: 25px;  
+}
+
+#option{
+	font-size: 1.5em;
+	font-weight: bold;
+}
